@@ -50,6 +50,6 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!---Для компактной версии-->
-[![Top Langs](https://github-readme-stats-six-phi-25.vercel.app/api/top-langs/?username=anuraghazra&theme=prussian&hide_border&layout=compact)](https://github.com/etozheesusoff/github-readme-stats)
+[![Top Langs](https://github-readme-stats-six-phi-25.vercel.app/api/top-langs/?username=anuraghazra&theme=highcontrast&border_color=000000&layout=compact)](https://github.com/etozheesusoff/github-readme-stats)
 
 <!--END_SECTION:waka-->
