@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://etozheesusoff.github.io/web/" target="_blank">ETOZHEESUS</a> </h1>
-<h3 align="center">I'm a digital content creator and essentially a regular person like many others, but according to others, my walk sets me apart from everyone else.</h3>
+<h4 align="center">I'm a digital content creator and essentially a regular person like many others, but according to others, my walk sets me apart from everyone else.</h4>
 
 
 [![codewars](https://www.codewars.com/users/etozheesusoff/badges/small)](https://www.codewars.com/users/etozheesusoff) 
