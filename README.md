@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">ETOZHEESUS</a> </h1>
+<h1 align="center">Hi there, I'm <a href="https://etozheesusoff.github.io/web/" target="_blank">ETOZHEESUS</a> </h1>
 <h3 align="center">Computer science student and IT news writer</h3>
 
 [![codewars](https://www.codewars.com/users/daniilshat/badges/small)](https://www.codewars.com/users/daniilshat)  
