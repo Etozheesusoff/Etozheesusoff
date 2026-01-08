@@ -62,7 +62,6 @@ No activity tracked
 [![](https://visitcount.itsvg.in/api?id=etozheesusoff&icon=0&color=13)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!---Для компактной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---Для компактной версии-->
 [![Top Langs](https://github-readme-stats-six-phi-25.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/etozheesusoff/github-readme-stats)
