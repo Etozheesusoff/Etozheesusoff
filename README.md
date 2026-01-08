@@ -43,10 +43,6 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/figma.svg" alt="figma" width="30" height="40"/> </a> 
 </p>
 
----
-[![](https://visitcount.itsvg.in/api?id=etozheesusoff&icon=0&color=13)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!---Для компактной версии-->
 [![Top Langs](https://github-readme-stats-six-phi-25.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/etozheesusoff/github-readme-stats)
