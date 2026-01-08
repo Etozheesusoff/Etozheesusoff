@@ -43,11 +43,6 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/figma.svg" alt="figma" width="30" height="40"/> </a> 
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=etozheesusoff&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=etozheesusoff&theme=highcontrast&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=etozheesusoff&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=etozheesusoff&icon=0&color=13)](https://visitcount.itsvg.in)
 
