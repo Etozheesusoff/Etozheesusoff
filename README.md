@@ -3,16 +3,16 @@
 
 ![](https://komarev.com/ghpvc/?username=etozheesusoff)
 
-[![codewars](https://www.codewars.com/users/etozheesusoff/badges/small)](https://www.codewars.com/users/etozheesusoff) 
+**Автор практических руководств по оптимизации**
+
+Разрабатываю и документирую конфигурации для игр (CS2, Valorant) и настройки ОС. Мой проект **ALL-GAMES**, также веду [WIKI](https://github.com/Etozheesusoff/ALL-CONFIGS/wiki) — это структурированная база знаний с пошаговыми инструкциями.
+
+**Сейчас углубляюсь в:**
+- Тонкую настройку Windows
+- Принципы DevOps (Git, CI/CD) на примере своих проектов.
 
 
-- 🌱 I’m currently learning **Swift, Python, Web**
-
-- 📫 How to reach me **daniilshstukhin@gmail.com**
-
-- 🌍 I speak Russian (native), English (B2)
-
-### Connect with me:
+### **Контакты:**
 <p align="left">
 <a href="https://t.me/etozheesusoff" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/Telegram.svg" alt="daniilshat" height="40" width="40" /></a>
 <a href="https://vk.com/etozheesus" target="blank"><img align="center" src="https://raw.githubusercontent.com/daniilshat/daniilshat/2d7eafe5250314b3d422c86b35de062e0f1f5178/icons/vk.svg" alt="daniilshat" height="40" width="40" /></a>
