@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm <a href="https://etozheesusoff.github.io/web/" target="_blank">ETOZHEESUS</a> </h1>
-<h4 align="center">I'm a digital content creator and essentially a regular person like many others, but according to others, my walk sets me apart from everyone else.</h4>
+<h4 align="center">чᴛо-ᴛо ʍᴇжду ʍиᴧᴀɯᴋой и ᴀбᴄоᴧюᴛной ʍᴩᴀзью</h4>
 
 ![](https://komarev.com/ghpvc/?username=etozheesusoff)
 
